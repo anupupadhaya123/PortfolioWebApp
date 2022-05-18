@@ -17,6 +17,8 @@ class HomeScreen extends StatelessWidget {
         HighLighInfo(), 
         MyProjects(), 
         Recommendations(),
+        
+        // fOOTER PURPOSE
         Column(
           mainAxisAlignment: MainAxisAlignment.center,
           crossAxisAlignment: CrossAxisAlignment.center,
