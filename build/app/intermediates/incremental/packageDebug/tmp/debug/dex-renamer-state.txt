@@ -1,0 +1,4 @@
+#Tue May 17 12:49:03 NPT 2022
+base.0=D\:\\flutter\\Responsive-and-Animated-Portfolio-Flutter-Starting-Project\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
